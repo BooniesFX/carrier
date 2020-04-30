@@ -1,0 +1,3 @@
+crypto/ed25519/testdata/sign.input.gz
+examples/chat/data
+examples/chat/main.exe
